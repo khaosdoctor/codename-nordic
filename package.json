@@ -1,0 +1,12 @@
+{
+  "name": "codename-nordic",
+  "version": "1.0.0",
+  "description": "Nordic deities names parser for codename",
+  "main": "index.js",
+  "repository": "https://github.com/khaosdoctor/codename-nordic.git",
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@khaosdoctor/codename": "^1.0.0"
+  }
+}
